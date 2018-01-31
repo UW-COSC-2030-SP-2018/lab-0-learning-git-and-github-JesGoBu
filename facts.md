@@ -8,6 +8,6 @@ List two truths and one lie about you below
 
 Bonus (+1), add your screen shot as an image here.
 <p>
-    <img src="/Proof of 25 gits Chad Frank.png" width="220" height="240" />
+    <img src="lab-0-learning-git-and-github-JesGoBu/proof/Proof of 25 gits Chad Frank.png" width="220" height="240" />
 </p>
 
