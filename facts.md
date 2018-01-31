@@ -7,4 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![ScreenShots](lab-0-learning-git-and-github-JesGoBu/proof/Proof of 25 gits Chad Frank.png)
+![ScreenShot](lab-0-learning-git-and-github-JesGoBu/proof/Proof of 25 gits Chad Frank.png)
