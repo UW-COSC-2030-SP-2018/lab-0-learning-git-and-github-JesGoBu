@@ -7,4 +7,7 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![ScreenShot](/Proof of 25 gits Chad Frank.png)
+<p>
+    <img src="/Proof of 25 gits Chad Frank.png" width="220" height="240" />
+</p>
+
